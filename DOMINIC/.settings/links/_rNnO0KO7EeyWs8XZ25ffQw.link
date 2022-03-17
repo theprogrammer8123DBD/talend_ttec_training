@@ -1,0 +1,79 @@
+{
+  "itemId" : "_rNnO0KO7EeyWs8XZ25ffQw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_-IYOsKPGEeyWs8XZ25ffQw",
+    "parameterList" : [ {
+      "id" : "_-Ix3UaPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Server"
+    }, {
+      "id" : "_-Ix3UqPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_ServiceName"
+    }, {
+      "id" : "_-Ix3U6PGEeyWs8XZ25ffQw",
+      "name" : "Oracle_AdditionalParams"
+    }, {
+      "id" : "_-Ix3VKPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Password"
+    }, {
+      "id" : "_-Ix3VaPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Port"
+    }, {
+      "id" : "_-Ix3VqPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Login"
+    }, {
+      "id" : "_-Ix3V6PGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Schema"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_-IYOsKPGEeyWs8XZ25ffQw",
+    "parameterList" : [ {
+      "id" : "_-Ix3UaPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Server"
+    }, {
+      "id" : "_-Ix3UqPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_ServiceName"
+    }, {
+      "id" : "_-Ix3U6PGEeyWs8XZ25ffQw",
+      "name" : "Oracle_AdditionalParams"
+    }, {
+      "id" : "_-Ix3VKPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Password"
+    }, {
+      "id" : "_-Ix3VaPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Port"
+    }, {
+      "id" : "_-Ix3VqPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Login"
+    }, {
+      "id" : "_-Ix3V6PGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Schema"
+    } ]
+  }, {
+    "contextName" : "QA",
+    "repoId" : "_-IYOsKPGEeyWs8XZ25ffQw",
+    "parameterList" : [ {
+      "id" : "_-Ix3UaPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Server"
+    }, {
+      "id" : "_-Ix3UqPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_ServiceName"
+    }, {
+      "id" : "_-Ix3U6PGEeyWs8XZ25ffQw",
+      "name" : "Oracle_AdditionalParams"
+    }, {
+      "id" : "_-Ix3VKPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Password"
+    }, {
+      "id" : "_-Ix3VaPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Port"
+    }, {
+      "id" : "_-Ix3VqPGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Login"
+    }, {
+      "id" : "_-Ix3V6PGEeyWs8XZ25ffQw",
+      "name" : "Oracle_Schema"
+    } ]
+  } ]
+}
