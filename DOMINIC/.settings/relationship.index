@@ -8,17 +8,5 @@
     "id" : "_-IYOsKPGEeyWs8XZ25ffQw",
     "version" : "Latest",
     "type" : "context"
-  }, {
-    "id" : "_XjBBkKO9EeyWs8XZ25ffQw",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "_XjBBkKO9EeyWs8XZ25ffQw - DEPT",
-    "version" : "Latest",
-    "type" : "schema"
-  }, {
-    "id" : "_XjBBkKO9EeyWs8XZ25ffQw - EMPLOYEE",
-    "version" : "Latest",
-    "type" : "schema"
   } ]
 } ]
